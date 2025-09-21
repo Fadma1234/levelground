@@ -8,10 +8,11 @@ A simple website project to practice HTML, CSS.
 - Built with HTML and CSS.
 - Beginner-friendly code structure  
 
-##Live Demo
+## Live Demo
+
 Click the link on the right side of this page under About to open and try it out!
 
 
-##Usage
+## Usage
 
 Click the link on the right side of the page under about
