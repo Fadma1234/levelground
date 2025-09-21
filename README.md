@@ -8,16 +8,10 @@ A simple website project to practice HTML, CSS.
 - Built with HTML and CSS.
 - Beginner-friendly code structure  
 
-## Installation
-
-1. Clone the repository:  
-   ```bash
-   git clone <repository-URL>
-2. Open the project folder.
-3. Open index.html in your browser.
+##Live Demo
+Click the link on the right side of this page under About to open and try it out!
 
 
-
-Usage
+##Usage
 
 Click the link on the right side of the page under about
